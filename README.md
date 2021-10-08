@@ -4,18 +4,23 @@ Module 9
 
 Task: Home Library
 
+
 The library of series to watch
 
 Keeps the list of series to watch with the titles, short descriptions and labels to mark is series already watched or not. It enables to add new series, update or delete selected series. 
 
 The applications  is built on the basis of REST. The data returned by the API is in json format.
 
+
 To import 
 
 from flask import Flask, jsonify, abort, make_response, request
+
 import json
 
+
 REST API
+
 
 Request
 
