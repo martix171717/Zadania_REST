@@ -26,17 +26,26 @@ Request
 
 Get list of series:
 
-GET    http://[hostname]/api/v1.0/towatches  -->   to show the current list of series
+GET  
+http://[hostname]/api/v1.0/towatches  -->   to show the current list of series
+
 
 Add new series:
-POST   http://[hostname]/api/v1.0/towatches/[towatch_id]    --> to  add new series to the list
+POST   
+http://[hostname]/api/v1.0/towatches/[towatch_id]    --> to  add new series to the list
+
 
 Get details:
-GET    http://[hostname]/api/v1.0/towatches/[towatch_id]    --> to get details about selected series 
+GET    
+http://[hostname]/api/v1.0/towatches/[towatch_id]    --> to get details about selected series 
+
 
 Delete series:
-DELETE   http://[hostname]/api/v1.0/towatches/[towatch_id]   -->  to delete selected series
+DELETE   
+http://[hostname]/api/v1.0/towatches/[towatch_id]   -->  to delete selected series
+
 
 Update series:
-PUT    http://[hostname]/api/v1.0/towatches/[towatch_id]    -->  to update  selected series
+PUT
+http://[hostname]/api/v1.0/towatches/[towatch_id]    -->  to update  selected series
 
