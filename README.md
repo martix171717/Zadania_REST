@@ -19,6 +19,12 @@ from flask import Flask, jsonify, abort, make_response, request
 import json
 
 
+Attributes
+
+![image](https://user-images.githubusercontent.com/89209334/136543093-fef45089-c3fb-4f0f-a1a3-a67899976e79.png)
+
+
+
 REST API
 
 
